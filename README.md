@@ -1,6 +1,6 @@
-# TRACE v0: grading citrus with a model that has never seen a real fruit
+# **TRACE**: Tracking & Rendering for Automated Citrus Evaluation
 
-**TRACE** (Tracking & Rendering for Automated Citrus Evaluation) trains a citrus quality grader **only on synthetic Blender renders**, then tests it zero-shot on real photographs from an industrial lemon quality-control dataset.
+This model trains a citrus quality grader **only on synthetic Blender renders**, then tests it zero-shot on real photographs from an industrial lemon quality-control dataset.
 
 This is v0, a one-day proof of concept. Everything runs on a 2-core CPU.
 
